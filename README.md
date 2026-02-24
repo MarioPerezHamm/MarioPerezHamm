@@ -70,7 +70,6 @@ Actualmente participo en proyectos reales donde combino:
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 # 📌 Proyectos
 
 ### Plataforma de análisis de sentimientos
