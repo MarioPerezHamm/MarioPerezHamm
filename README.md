@@ -2,9 +2,9 @@
 
 ![visitas](https://komarev.com/ghpvc/?username=MarioPerezHamm&color=blue)
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Ingeniero+Electrónico;Backend+Developer;Ciberseguridad;Infraestructura+Cloud;Apasionado+por+la+IA" />
-</p>
+</p> -->
 
 ---
 
@@ -67,9 +67,9 @@ Actualmente participo en proyectos reales donde combino:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioPerezHamm&theme=tokyo-night"/>
 
 ---
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+### ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 # 📌 Proyectos
 
