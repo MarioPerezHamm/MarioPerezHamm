@@ -67,6 +67,10 @@ Actualmente participo en proyectos reales donde combino:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioPerezHamm&theme=tokyo-night"/>
 
 ---
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 # 📌 Proyectos
 
