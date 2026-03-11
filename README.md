@@ -69,11 +69,11 @@ Actualmente participo en proyectos reales donde combino:
 ---
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/MarioPerezHamm/learning3/releases/tag/v0.1.0) in [MarioPerezHamm/learning3](https://github.com/MarioPerezHamm/learning3)
-2. 🎉 Merged PR [#2](https://github.com/MarioPerezHamm/learning2/pull/2) in [MarioPerezHamm/learning2](https://github.com/MarioPerezHamm/learning2)
-3. 💪 Opened PR [#2](https://github.com/MarioPerezHamm/learning2/pull/2) in [MarioPerezHamm/learning2](https://github.com/MarioPerezHamm/learning2)
-4. 🎉 Merged PR [#1](https://github.com/MarioPerezHamm/learning2/pull/1) in [MarioPerezHamm/learning2](https://github.com/MarioPerezHamm/learning2)
-5. 💪 Opened PR [#1](https://github.com/MarioPerezHamm/learning2/pull/1) in [MarioPerezHamm/learning2](https://github.com/MarioPerezHamm/learning2)
+1. 🎉 Merged PR [#2](https://github.com/MarioPerezHamm/portafolio/pull/2) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
+2. 💪 Opened PR [#2](https://github.com/MarioPerezHamm/portafolio/pull/2) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
+3. 🎉 Merged PR [#1](https://github.com/MarioPerezHamm/portafolio/pull/1) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
+4. 💪 Opened PR [#1](https://github.com/MarioPerezHamm/portafolio/pull/1) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
+5. 🚀 Published release [v0.1.0](https://github.com/MarioPerezHamm/learning3/releases/tag/v0.1.0) in [MarioPerezHamm/learning3](https://github.com/MarioPerezHamm/learning3)
 <!--END_SECTION:activity-->
 # 📌 Proyectos
 
