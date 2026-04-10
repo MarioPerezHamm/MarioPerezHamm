@@ -69,11 +69,11 @@ Actualmente participo en proyectos reales donde combino:
 ---
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/6) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
-2. 💪 Opened PR [#6](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/6) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
-3. 🎉 Merged PR [#2](https://github.com/MarioPerezHamm/portafolio/pull/2) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
-4. 💪 Opened PR [#2](https://github.com/MarioPerezHamm/portafolio/pull/2) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
-5. 🎉 Merged PR [#1](https://github.com/MarioPerezHamm/portafolio/pull/1) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
+1. 🎉 Merged PR [#11](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/11) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
+2. 💪 Opened PR [#11](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/11) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
+3. 🎉 Merged PR [#6](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/6) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
+4. 💪 Opened PR [#6](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development/pull/6) in [No-Country-simulation/S03-26-Equipo-17-Web-App-Development](https://github.com/No-Country-simulation/S03-26-Equipo-17-Web-App-Development)
+5. 🎉 Merged PR [#2](https://github.com/MarioPerezHamm/portafolio/pull/2) in [MarioPerezHamm/portafolio](https://github.com/MarioPerezHamm/portafolio)
 <!--END_SECTION:activity-->
 # 📌 Proyectos
 
