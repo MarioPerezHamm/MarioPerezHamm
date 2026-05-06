@@ -69,11 +69,11 @@ Actualmente participo en proyectos reales donde combino:
 ---
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/MarioPerezHamm/reforestacion-app/pull/5) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-2. ℹ️ Labeled PR [#5](https://github.com/MarioPerezHamm/reforestacion-app/pull/5) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-3. 💪 Opened PR [#5](https://github.com/MarioPerezHamm/reforestacion-app/pull/5) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-4. 🎉 Merged PR [#4](https://github.com/MarioPerezHamm/reforestacion-app/pull/4) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-5. 💪 Opened PR [#4](https://github.com/MarioPerezHamm/reforestacion-app/pull/4) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+1. 🎉 Merged PR [#7](https://github.com/MarioPerezHamm/reforestacion-app/pull/7) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+2. 💪 Opened PR [#7](https://github.com/MarioPerezHamm/reforestacion-app/pull/7) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+3. 🎉 Merged PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+4. ℹ️ Labeled PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+5. 💪 Opened PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
 <!--END_SECTION:activity-->
 # 📌 Proyectos
 
