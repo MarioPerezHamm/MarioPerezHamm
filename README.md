@@ -69,9 +69,9 @@ Actualmente participo en proyectos reales donde combino:
 ---
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MarioPerezHamm/reforestacion-app/pull/7) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-2. 💪 Opened PR [#7](https://github.com/MarioPerezHamm/reforestacion-app/pull/7) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
-3. 🎉 Merged PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
+1. 🎉 Merged PR [#1](https://github.com/MarioPerezHamm/Command-and-Control-C2-/pull/1) in [MarioPerezHamm/Command-and-Control-C2-](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
+2. ℹ️ Labeled PR [#1](https://github.com/MarioPerezHamm/Command-and-Control-C2-/pull/1) in [MarioPerezHamm/Command-and-Control-C2-](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
+3. 💪 Opened PR [#1](https://github.com/MarioPerezHamm/Command-and-Control-C2-/pull/1) in [MarioPerezHamm/Command-and-Control-C2-](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
 4. ℹ️ Labeled PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
 5. 💪 Opened PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
 <!--END_SECTION:activity-->
