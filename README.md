@@ -82,7 +82,7 @@ API REST robusta integrada con un modelo de Data Science para la clasificación 
 Plataforma funcional de Comando y Control diseñada en entorno de laboratorio para prácticas avanzadas de Red Team y Pentesting.
 - **Core:** Implementación de cifrado TLS para comunicación segura entre el servidor y los agentes.
 - **Features:** Interfaz gráfica de operador con soporte multi-agente, ejecución remota individual/broadcast e historial completo por agente. Contenerizado con Docker.
-- **Enlaces:** 🔗 [Repositorio del Proyecto](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
+- **Enlaces:** 🖥️ [Demo Frontend](https://command-and-control-c2.vercel.app/) | 🔗 [Repositorio del Proyecto](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
 
 ### 💼 E-Commerce de Productos Rurales (Corporación TOMASI)
 Participación activa en el diseño de arquitectura y desarrollo del backend para una plataforma de comercio electrónico agrícola.
