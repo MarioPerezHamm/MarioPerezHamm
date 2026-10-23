@@ -1,72 +1,118 @@
-# Hola 👋 Soy Mario Pérez Hamm
+# Hola 👋 Soy Mario Fernando Pérez Martínez (MarioPerezHamm)
 
-![visitas](https://komarev.com/ghpvc/?username=MarioPerezHamm&color=blue)
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:perezfernan159@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://portafolio-mu-indol.vercel.app" target="_blank">
+    <img src="https://shields.io" alt="Portafolio" />
+  </a>
+</p>
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Ingeniero+Electrónico;Backend+Developer;Ciberseguridad;Infraestructura+Cloud;Apasionado+por+la+IA" />
-</p> -->
+<p align="center">
+  <img src="https://demolab.com" />
+</p>
 
----
-
-# 🚀 Sobre mí
-
-Soy **Ingeniero Electrónico** interesado en backend, infraestructura, redes y ciberseguridad.
-
-Me gusta construir APIs, trabajar con Linux, desplegar servicios en la nube y experimentar con inteligencia artificial.
-
-Actualmente participo en proyectos reales donde combino:
-
-- Desarrollo backend
-- Infraestructura
-- Redes
-- Seguridad
-- IA
+<p align="center">
+  <img src="https://komarev.com" alt="visitas" />
+</p>
 
 ---
 
-# 🧠 Tecnologías
+## 🚀 Sobre mí
 
-### Backend
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+Soy **Ingeniero Electrónico con énfasis en Telecomunicaciones** enfocado en el desarrollo de software **Backend** robusto, soluciones de **Ciberseguridad**, **Infraestructura Cloud** e **Inteligencia Artificial Aplicada**. 
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+- 🛠️ **Backend Sólido:** Experiencia desarrollando APIs RESTful seguras con **Java 21** y **Spring Boot**.
+- 🤖 **IA & Data Science:** Diseño y entrenamiento de modelos de Machine Learning aplicados a problemas reales (como análisis de sentimientos con alta precisión).
+- 🛡️ **Seguridad y Redes:** Configuración y simulación de infraestructuras de red (FTTH, Cisco, MikroTik) y laboratorios controlados de Red Team / Pentesting.
+- ⚡ **Metodologías:** Sólida base en análisis de requerimientos funcionales, ingeniería de software y documentación técnica.
 
-### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+---
 
-### Infraestructura / DevOps
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![OCI](https://img.shields.io/badge/OracleCloud-red?style=for-the-badge)
+## 🧠 Tecnologías & Herramientas
 
-### Networking
-![Mikrotik](https://img.shields.io/badge/MikroTik-red?style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
-![Juniper](https://img.shields.io/badge/Juniper-black?style=for-the-badge)
-![GPON](https://img.shields.io/badge/FTTH-GPON-green?style=for-the-badge)
+### 💻 Backend & Frameworks
+![Java](https://shields.io)
+![Spring](https://shields.io)
+![Python](https://shields.io)
+![Express.js](https://shields.io)
+![JavaScript](https://shields.io)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![Redis](https://shields.io)
+![Supabase](https://shields.io)
+
+### 🤖 Inteligencia Artificial & Agentes
+![Machine Learning](https://shields.io)
+![LLMs](https://shields.io)
+![MCP](https://shields.io)
+![Windsurf](https://shields.io)
+
+### ☁️ DevOps & Cloud
+![Docker](https://shields.io)
+![OCI](https://shields.io)
+![GCP](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
+
+### 🌐 Networking & Telecomunicaciones
+![Cisco](https://shields.io)
+![MikroTik](https://shields.io)
+![FTTH / GPON](https://shields.io)
+![EVE-NG](https://shields.io)
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🤖 SentimAI — Plataforma de Análisis de Sentimientos
+API REST robusta integrada con un modelo de Data Science para la clasificación de textos en tiempo real.
+- **Backend:** Java 21, Spring Boot, MySQL y Redis para la gestión eficiente de caché.
+- **Data Science:** Modelo de Regresión Logística entrenado con vectorización TF-IDF que alcanzó un **94.2% de precisión**.
+- **Infraestructura:** Desplegado mediante contenedores con Docker y Docker Compose en Oracle Cloud Infrastructure (OCI).
+- **Enlaces:** 🖥️ [Demo Frontend](https://sentiment-frontend-456604684339.southamerica-east1.run.app) | 🔗 [Repositorio API](https://github.com)
+
+### 🛡️ Command and Control (C2) System
+Plataforma funcional de Comando y Control diseñada en entorno de laboratorio para prácticas avanzadas de Red Team y Pentesting.
+- **Core:** Implementación de cifrado TLS para comunicación segura entre el servidor y los agentes.
+- **Features:** Interfaz gráfica de operador con soporte multi-agente, ejecución remota individual/broadcast e historial completo por agente. Contenerizado con Docker.
+- **Enlaces:** 🔗 [Repositorio del Proyecto](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
+
+### 💼 E-Commerce de Productos Rurales (Corporación TOMASI)
+Participación activa en el diseño de arquitectura y desarrollo del backend para una plataforma de comercio electrónico agrícola.
+- **Alcance:** Creación de ~30 endpoints REST con autenticación segura usando Java y PostgreSQL.
+- **Integraciones:** Pasarela de pagos Wompi y gestión de medios con Cloudinary.
+
+---
+
+## 🏆 Hackathons & Logros
+- 🥉 **3.er Lugar** - *Hackathon Talento Tech (2025):* Desarrollo en 8 horas de un MVP interactivo basado en IA (Gemini CLI) enfocado en la analítica de leads y marketing predictivo.
+- 🎓 **Ingeniero Electrónico con énfasis en Telecomunicaciones** (Universidad del Quindío, 2026).
+- 📜 **Certificado Certificaciones Importantes:** OCI Foundations Associate, Backend Developer (Alura Latam), e intermedio de Ciberseguridad.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarioPerezHamm&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarioPerezHamm&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarioPerezHamm&show_icons=true&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarioPerezHamm&layout=compact&theme=tokyonight" height="175"/>
+</p>
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioPerezHamm&theme=tokyo-night" width="100%"/>
 </p>
 
 ---
 
-# 📈 Actividad
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioPerezHamm&theme=tokyo-night"/>
-
----
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/MarioPerezHamm/Command-and-Control-C2-/pull/1) in [MarioPerezHamm/Command-and-Control-C2-](https://github.com/MarioPerezHamm/Command-and-Control-C2-)
@@ -75,32 +121,6 @@ Actualmente participo en proyectos reales donde combino:
 4. ℹ️ Labeled PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
 5. 💪 Opened PR [#6](https://github.com/MarioPerezHamm/reforestacion-app/pull/6) in [MarioPerezHamm/reforestacion-app](https://github.com/MarioPerezHamm/reforestacion-app)
 <!--END_SECTION:activity-->
-# 📌 Proyectos
-
-### Plataforma de análisis de sentimientos
-
-Proyecto donde se integra:
-
-- Backend
-- API
-- Modelo de IA
-- Despliegue en la nube
-
-Demo  
-http://140.84.161.47/
-
-Repositorio  
-https://github.com/JhonatanO24/sentiment-api-equipo39
 
 ---
-
-# 📚 Actualmente aprendiendo
-
-- Arquitectura de software
-- Integración de IA en aplicaciones
-- Despliegues en la nube
-- Seguridad en aplicaciones
-
----
-
-⭐ Siempre aprendiendo algo nuevo
+<p align="center"><b>⭐ "Siempre aprendiendo y construyendo el futuro de la tecnología"</b></p>
