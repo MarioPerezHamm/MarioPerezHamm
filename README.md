@@ -1,23 +1,23 @@
 # Hola 👋 Soy Mario Fernando Pérez Martínez (MarioPerezHamm)
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mario-fernando-perez-martinez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:perezfernan159@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portafolio-mu-indol.vercel.app" target="_blank">
-    <img src="https://shields.io" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Ingeniero+Electr%C3%B3nico;Backend+Developer;Ciberseguridad;Infraestructura+Cloud;IA+Aplicada" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=MarioPerezHamm&color=blue" alt="visitas" />
 </p>
 
 ---
@@ -36,36 +36,36 @@ Soy **Ingeniero Electrónico con énfasis en Telecomunicaciones** enfocado en el
 ## 🧠 Tecnologías & Herramientas
 
 ### 💻 Backend & Frameworks
-![Java](https://shields.io)
-![Spring](https://shields.io)
-![Python](https://shields.io)
-![Express.js](https://shields.io)
-![JavaScript](https://shields.io)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Bases de Datos
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![Redis](https://shields.io)
-![Supabase](https://shields.io)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🤖 Inteligencia Artificial & Agentes
-![Machine Learning](https://shields.io)
-![LLMs](https://shields.io)
-![MCP](https://shields.io)
-![Windsurf](https://shields.io)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-00ADD8?style=for-the-badge&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00C4B4?style=for-the-badge&logoColor=white)
 
 ### ☁️ DevOps & Cloud
-![Docker](https://shields.io)
-![OCI](https://shields.io)
-![GCP](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌐 Networking & Telecomunicaciones
-![Cisco](https://shields.io)
-![MikroTik](https://shields.io)
-![FTTH / GPON](https://shields.io)
-![EVE-NG](https://shields.io)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![FTTH / GPON](https://img.shields.io/badge/FTTH_/_GPON-00B388?style=for-the-badge&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-0078D4?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -101,8 +101,8 @@ Participación activa en el diseño de arquitectura y desarrollo del backend par
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarioPerezHamm&show_icons=true&theme=tokyonight" height="175"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarioPerezHamm&layout=compact&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats-henna-tau-43.vercel.app/api?username=MarioPerezHamm&show_icons=true&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats-henna-tau-43.vercel.app/api/top-langs/?username=MarioPerezHamm&layout=compact&theme=tokyonight" height="175"/>
 </p>
 
 ## 📈 Actividad
